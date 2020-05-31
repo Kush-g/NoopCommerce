@@ -1,0 +1,5 @@
+﻿{
+  "DataConnectionString": "Data Source=DESKTOP-S4235CK\\MSSQLSERVERS;Initial Catalog=NoopDemo;Integrated Security=False;Persist Security Info=False;User ID=sa;Password=triple",
+  "DataProvider": "sqlserver",
+  "RawDataSettings": {}
+}
